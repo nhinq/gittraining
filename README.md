@@ -1,6 +1,6 @@
 # Git training
 Example we has 3 branch
-# master, stage, develop
+$ master, stage, develop
 //always start with master as your base branch
 # git checkout master
 # git pull origin master
