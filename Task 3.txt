@@ -1,2 +1,7 @@
 //This is code for task 3
-//Edit 1
+
+
+
+Thuong working on task three.
+resolved one.
+
