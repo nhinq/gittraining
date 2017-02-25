@@ -2,11 +2,11 @@
 Example we has 3 branch
 $ master, stage, develop
 //always start with master as your base branch
-# git checkout master
-# git pull origin master
-# git checkout -b NEW-BRANCH-CHANGE
+#git checkout master
+#git pull origin master
+#git checkout -b NEW-BRANCH-CHANGE
 //changes 
-# git push origin NEW-BRANCH-CHANGE
+#git push origin NEW-BRANCH-CHANGE
 
 //PR to develop
 
