@@ -20,6 +20,8 @@ $ git push origin NEW-BRANCH-CHANGE
 
 $ git fetch origin
 
+$ git checkout -b NEW-BRANCH-CHANGE origin/NEW-BRANCH-CHANGE
+
 $ git merge develop
 
 //review & manual merge
