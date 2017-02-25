@@ -13,10 +13,10 @@ $ git checkout -b NEW-BRANCH-CHANGE
 
 $ git push origin NEW-BRANCH-CHANGE
 
-//PR to develop
+# PR to develop
 
 //if conflict then do
-//Solution 1
+# Solution 1
 
 $ git fetch origin
 
@@ -28,7 +28,7 @@ $ git commit -m "NEW-BRANCH-CHANGE merged"
 
 $ git push origin NEW-BRANCH-CHANGE
 
-//Solution 2
+# Solution 2
 $ git fetch origin
 
 $ git checkout develop
