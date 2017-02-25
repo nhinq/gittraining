@@ -17,18 +17,32 @@ $ git push origin NEW-BRANCH-CHANGE
 
 //if conflict then do
 //Solution 1
-# git fetch origin
-# git merge develop
+
+$ git fetch origin
+
+$ git merge develop
+
 //review & manual merge
-# git commit -m "NEW-BRANCH-CHANGE merged"
-# git push origin NEW-BRANCH-CHANGE
+
+$ git commit -m "NEW-BRANCH-CHANGE merged"
+
+$ git push origin NEW-BRANCH-CHANGE
 
 //Solution 2
-# git fetch origin
-# git checkout develop
-# git pull origin develop
-# git checkout -b NEW-BRANCH-CHANGE-Dev
-# git pull origin NEW-BRANCH-CHANGE
+$ git fetch origin
+
+$ git checkout develop
+
+$ git pull origin develop
+
+$ git checkout -b NEW-BRANCH-CHANGE-Dev
+
+$ git pull origin NEW-BRANCH-CHANGE
+
 //review & manual merge
-# git commit -m "NEW-BRANCH-CHANGE-Dev merged"
-# git push origin NEW-BRANCH-CHANGE-Dev
+
+$ git commit -m "NEW-BRANCH-CHANGE-Dev merged"
+
+$ git push origin NEW-BRANCH-CHANGE-Dev
+
+//repeat for Stage and Master
