@@ -1,4 +1,13 @@
-# Git training
+# Git Push / Pull
+//
+cd your web/root
+
+$ git add .
+$ git commit -m "your issue"
+$ git push origin master
+// or git push origin {BRANCH}
+
+# Git resovled conflict
 Example we has 3 branch
 $ master, stage, develop
 //always start with master as your base branch
