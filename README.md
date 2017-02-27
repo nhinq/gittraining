@@ -10,7 +10,18 @@ $ git commit -m "your issue"
 
 $ git push origin master
 
-// or git push origin {BRANCH}
+// or $ git push origin {BRANCH}
+
+// of $ git push
+
+//Pull code
+
+$ git pull origin master
+
+// or
+
+$ git pull
+
 
 # Git resovled conflict
 Example we has 3 branch
