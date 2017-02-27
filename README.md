@@ -2,6 +2,8 @@
 //
 cd your web/root
 
+$ git clone git@github.com:nhinq/gittraining.git
+
 $ git add .
 
 $ git commit -m "your issue"
