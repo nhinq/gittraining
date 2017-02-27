@@ -3,8 +3,11 @@
 cd your web/root
 
 $ git add .
+
 $ git commit -m "your issue"
+
 $ git push origin master
+
 // or git push origin {BRANCH}
 
 # Git resovled conflict
